@@ -1,0 +1,29 @@
+.user_list {
+    padding: 25px;
+    text-decoration: none;
+    margin: 0 auto;
+    width: 25em;
+    border: 1px solid black;
+}
+
+.link {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 30px;
+    color: black;
+    :hover {
+        color:white;
+    }
+    :visited {
+        color: none;
+    }
+}
+
+.ul {
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.header {
+    border-bottom:  solid;
+}
